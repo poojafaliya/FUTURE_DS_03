@@ -1,12 +1,12 @@
 # FUTURE_DS_03
 # student-feedback-analysis# 🎓 Student Course Feedback Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes student course feedback collected through Google Forms to understand satisfaction levels, identify strengths, and highlight improvement areas. The analysis is performed using Python with data visualization and rating-based sentiment logic.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Clean and preprocess student feedback data
 - Analyze satisfaction using numerical ratings
 - Convert ratings into sentiment categories (Positive, Neutral, Negative)
@@ -15,7 +15,7 @@ This project analyzes student course feedback collected through Google Forms to 
 
 ---
 
-## 🗂️ Dataset Description
+## Dataset Description
 - Source: Google Forms (Student Feedback Survey)
 - Records: 1001 student responses
 - Data Type: Numerical ratings (1–10 scale)
@@ -32,7 +32,7 @@ This project analyzes student course feedback collected through Google Forms to 
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 - Python
 - Google Colab
 - pandas
@@ -42,14 +42,14 @@ This project analyzes student course feedback collected through Google Forms to 
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 - Removed unnecessary index column
 - Checked and handled missing values
 - Renamed columns for clarity
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 - Descriptive statistics
 - Average rating per student
 - Average rating per feedback category
@@ -58,7 +58,7 @@ This project analyzes student course feedback collected through Google Forms to 
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 - Sentiment distribution
 - Average rating per category
 - Top 3 highest satisfaction areas
@@ -67,28 +67,28 @@ This project analyzes student course feedback collected through Google Forms to 
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - Identified top-performing course aspects contributing to high satisfaction
 - Highlighted low-rated areas indicating common complaint themes
 - Found strong correlations between concept clarity and subject knowledge
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 - Improve assignment clarity and difficulty level
 - Increase use of visual teaching aids
 - Enhance course structure and planning
 - Maintain strengths in subject expertise and relevance
 ---
 
-## 🚀 Future Scope
+## Future Scope
 - Include text-based feedback for NLP sentiment analysis using TextBlob or VADER
 - Department-wise and event-wise satisfaction analysis
 - Interactive dashboards using Power BI or Tableau
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 This project demonstrates how structured feedback data can be transformed into meaningful insights using Python. Rating-based sentiment analysis and visualizations help stakeholders make data-driven decisions to improve educational quality.
 
 ---
