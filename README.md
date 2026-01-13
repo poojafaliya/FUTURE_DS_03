@@ -93,5 +93,10 @@ This project demonstrates how structured feedback data can be transformed into m
 
 ---
 
-iring Data Analyst  
-Skills: Excel | SQL | Python | Power BI | GitHub
+# 👤 Author
+[Pooja Faliya] Data Analyst | Python & SQL Enthusiast | Power BI |Excel
+
+# 📧 Email: poojafaliya1@gmail.com
+# 💼 LinkedIn: http://www.linkedin.com/in/pooja-faliya-8b5428358
+# 📂 GitHub: https://github.com/poojafaliya
+# 💬 open to opertunities in data analysis
